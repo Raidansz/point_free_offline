@@ -71,3 +71,5 @@ The script will:
 ## Disclaimer
 This script is intended for personal use only to save videos for offline viewing by people who already have a subscription to Point-Free. Ensure you have the right to download content from Point-Free before using this tool. Unauthorized use may violate the terms of service of Point-Free.
 
+Downloading videos and distributing them without proper authorization/permission may result in serious legal consequences. It is your responsibility to adhere to the terms of service of Point-Free and any applicable copyright laws. 
+
